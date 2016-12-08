@@ -1,0 +1,60 @@
+h1 {
+    color: #2D3142;
+	padding-top: 20px;     
+	padding-bottom: 20px;     
+}
+
+.navbar navbar-default navbar-fixed-top { 
+	padding-top: auto; 
+	padding-bottom:	auto;
+	background-color: #177e89;
+	color: #177e89;
+}
+
+.jumbotron {
+	background-color: #177e89;
+	color: #fff;
+}	
+
+small {
+	color: #fff;
+}
+	
+body { 
+	/*padding-top: 70px; */
+	color: #177e89;
+}
+
+div.a {
+    background-size: cover;
+}
+
+div.navbar-brand {
+	align: left;
+}
+
+footer {
+	background-color: #177e89;
+}
+
+#footer {
+width: auto; 
+background-color:#177e89;
+}
+#footer-content{
+width: auto;  
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+#footer p {
+color: #fff;
+font-size: 12px;
+}
+
+#footer blockquote {font-size:11px; color:#999;}
+
+#footer a {
+color: #a59b8c;
+}
